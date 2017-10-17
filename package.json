@@ -1,0 +1,35 @@
+{
+  "name": "iopcore-message",
+  "version": "0.1.0",
+  "description": "ioP Messages for iopcore",
+  "author": "IoP Community",
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test:node",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "keywords": [
+    "IoP",
+    "bitcoin",
+    "Internet of People",
+    "iopcore",
+    "message",
+    "signing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hendry19901990/iopcore-message"
+  },
+  "dependencies": {
+    "iopcore-lib": "^0.1.0"
+  },
+  "devDependencies": {
+    "iopcore-build": "^0.1.3",
+    "brfs": "^1.3.0",
+    "chai": "~1.10.0",
+    "gulp": "^3.8.10"
+  },
+  "license": "MIT"
+}

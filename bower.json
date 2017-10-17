@@ -1,0 +1,30 @@
+{
+  "name": "iopcore-message",
+  "main": "./iopcore-message.min.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hendry19901990/iopcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "IoP Message Verification and Signing for IoPcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Internet of People",
+    "IoP",
+    "iopcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
