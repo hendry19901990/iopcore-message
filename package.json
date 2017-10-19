@@ -1,6 +1,6 @@
 {
   "name": "iopcore-message",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ioP Messages for iopcore",
   "author": "IoP Community",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/hendry19901990/iopcore-message"
   },
   "dependencies": {
-    "iopcore-lib": "^0.1.0"
+    "iopcore-lib": "^0.1.1"
   },
   "devDependencies": {
     "iopcore-build": "^0.1.3",
